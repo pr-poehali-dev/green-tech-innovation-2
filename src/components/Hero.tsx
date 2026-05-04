@@ -34,7 +34,7 @@ export default function Hero() {
           Бот выкупает Telegram-аккаунты мгновенно — без ожидания, без посредников, выплата сразу.
         </p>
         <a
-          href="https://t.me/"
+          href="https://t.me/TGbiyskyp_bot"
           className="inline-block px-8 py-3 uppercase tracking-wide text-sm font-semibold transition-colors duration-300"
           style={{ background: "#2AABEE", color: "#fff" }}
         >

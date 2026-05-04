@@ -20,7 +20,7 @@ export default function Featured() {
           <p>🤖 Работает без выходных, 24/7</p>
         </div>
         <a
-          href="https://t.me/"
+          href="https://t.me/TGbiyskyp_bot"
           className="px-6 py-3 text-sm font-semibold uppercase tracking-wide cursor-pointer w-fit transition-all duration-300 hover:opacity-80"
           style={{ background: "#2AABEE", color: "#fff" }}
         >

@@ -15,7 +15,7 @@ export default function Header({ className }: HeaderProps) {
             Как это работает
           </a>
           <a
-            href="https://t.me/"
+            href="https://t.me/TGbiyskyp_bot"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
           >
             Запустить бота
